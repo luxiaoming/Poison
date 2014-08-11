@@ -7,7 +7,7 @@ Another of the Android platform injection tools, which made a special handling t
 the source can build easy by NDK, without any special dependence.
 
 ##Usage
-poison <so_absulate_path> <target_pid>
+poison \<so_absulate_path\> \<target_pid\>
 
 - so_absulate_path: the of the dynamic library.
 - target_pid: the pid that you want to injecting.
